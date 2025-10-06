@@ -1,0 +1,13 @@
+# Node modules
+client/node_modules
+backend/node_modules
+
+# Build outputs
+client/.next
+backend/dist
+
+# Env files
+*.env
+
+# Logs
+*.log
