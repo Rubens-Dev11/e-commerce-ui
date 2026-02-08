@@ -1,0 +1,9 @@
+{
+  "name": "e-commerce-ui-root",
+  "private": true,
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "cd client && npm run start"
+  }
+}
